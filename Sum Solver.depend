@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681237245 source:c:\users\my pc\onedrive\desktop\codeblocks\c\sum solver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
